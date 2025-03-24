@@ -1,6 +1,5 @@
 ## Hallo! Ich bin David 😄 
 
-## About me
 I'm a Information Technology Engineering student with special interest in coding. I really enjoy solving
 problems and needs with my skills ⚡
 
