@@ -1,5 +1,9 @@
 ## Hallo! Ich bin David 😄 
-# i am
+
+## About me
+I'm a Information Technology Engineering student with special interest in coding. I really enjoy solving
+problems and needs with my skills ⚡
+
 <!--
 **vidalesdavid/vidalesdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
